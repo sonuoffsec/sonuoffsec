@@ -37,47 +37,6 @@ uid=0(root) gid=0(root) groups=redteam,vapt,devsecops,architecture
 [+] Threat Modeling & Risk Assessment
 [+] Dark Web Intelligence & Exposure Monitoring
 ```
-
----
-
-## 🧰 Technical Arsenal
-
-```bash
-[ Web & API Testing ]
-Burp Suite
-OWASP ZAP
-Postman
-FFUF
-
-[ Network & Infra / AD ]
-Nmap
-Metasploit
-Wireshark
-BloodHound
-CrackMapExec
-Impacket
-
-[ Mobile Security ]
-MobSF
-Frida
-Drozer
-ADB
-
-[ Automation & Platforms ]
-Python
-Bash
-PowerShell
-Kali Linux
-Docker
-Git
-AWS / Azure
-
-[ Frameworks & Standards ]
-OWASP
-MITRE ATT&CK
-SIEM / EDR / XDR
-```
-
 ---
 
 ## 🎯 Engagement Flow
