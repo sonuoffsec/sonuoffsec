@@ -1,30 +1,121 @@
-# 👾 Sonu | Offensive Security
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Zero+Trust+Architect;Offensive+Security+Leader;Penetration+Testing+Expert;DevSecOps+Strategist" />
+</p>
 
-> "Break. Understand. Secure."
+```bash
+┌──(sonu㉿offsec)-[~/profile]
+└─$ whoami
+Sonu | Cybersecurity Leader | Penetration Testing Expert
 
-🛡️ Cybersecurity Professional  
-🔴 Offensive Security | Red Teaming  
-🧠 Exploit Research | Web App Security | Network Security  
-🌐 Open Source & Security Research  
+┌──(sonu㉿offsec)-[~/profile]
+└─$ id
+uid=0(root) gid=0(root) groups=redteam,vapt,devsecops,architecture
+```
+
+# 👾 SONU | Offensive Security & Corporate Leadership
+
+> Offensive mindset. Executive vision. Continuous resilience.
 
 ---
 
-## ⚔️ About Me
-
-I specialize in identifying, exploiting, and helping remediate security vulnerabilities across modern infrastructures.
-
-My focus areas include:
-
-- 🔍 Penetration Testing
-- 🎯 Red Team Operations
-- 🌐 Web Application Security
-- 🧩 API Security Testing
-- 🐞 Bug Bounty Research
-- 🛠️ Exploit Development (Learning & Research)
-
-## 🧰 Tools & Technologies
+## ⚔️ Core Expertise
 
 ```bash
-Burp Suite | Nmap | Metasploit | Wireshark
-Python | Bash | Linux | Docker
-OWASP Top 10 | OSINT | Active Directory
+[+] Penetration Testing (VAPT)
+    • Web Applications (All architectures)
+    • APIs (REST / GraphQL / SOAP)
+    • Mobile (iOS & Android)
+    • Thick Client / Desktop Applications
+    • Network & Infrastructure
+[+] Red Team & Adversary Simulation
+[+] Zero Trust Security Architecture
+[+] DevSecOps & Secure CI/CD Integration
+[+] Secure SDLC (SSDLC)
+[+] Breach & Attack Simulation (BAS)
+[+] Cloud Security (AWS / Azure)
+[+] Identity & Access Management Security
+[+] Threat Modeling & Risk Assessment
+[+] Dark Web Intelligence & Exposure Monitoring
+```
+
+---
+
+## 🧰 Technical Arsenal
+
+```bash
+[ Web & API Testing ]
+Burp Suite
+OWASP ZAP
+Postman
+FFUF
+
+[ Network & Infra / AD ]
+Nmap
+Metasploit
+Wireshark
+BloodHound
+CrackMapExec
+Impacket
+
+[ Mobile Security ]
+MobSF
+Frida
+Drozer
+ADB
+
+[ Automation & Platforms ]
+Python
+Bash
+PowerShell
+Kali Linux
+Docker
+Git
+AWS / Azure
+
+[ Frameworks & Standards ]
+OWASP
+MITRE ATT&CK
+SIEM / EDR / XDR
+```
+
+---
+
+## 🎯 Engagement Flow
+
+```bash
+1️⃣ Reconnaissance & Information Gathering
+2️⃣ Attack Surface Mapping
+3️⃣ Exploitation & Privilege Escalation
+4️⃣ Lateral Movement Simulation
+5️⃣ Impact Analysis & Reporting
+6️⃣ Remediation Guidance
+7️⃣ Re-Validation / Continuous Testing
+```
+
+---
+
+## 🧠 Security Philosophy
+
+```bash
+Assume breach.
+Trust nothing.
+Validate everything.
+Automate defense.
+Continuously test.
+Engineer resilience.
+```
+
+---
+
+## 📡 Collaboration
+
+```bash
+┌──(visitor㉿github)-[~/connect]
+└─$ echo "HELLO SONU"
+```
+
+Open a discussion to collaborate on **penetration testing, offensive security programs, and enterprise security architecture**.
+
+---
+
+⭐ Focused on **measurable security impact** through expert penetration testing, red teaming, and architecture-driven security leadership.
