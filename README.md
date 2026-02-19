@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👾 Sonu | Offensive Security
 
-<!--
-**sonuoffsec/sonuoffsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Break. Understand. Secure."
 
-Here are some ideas to get you started:
+🛡️ Cybersecurity Professional  
+🔴 Offensive Security | Red Teaming  
+🧠 Exploit Research | Web App Security | Network Security  
+🌐 Open Source & Security Research  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚔️ About Me
+
+I specialize in identifying, exploiting, and helping remediate security vulnerabilities across modern infrastructures.
+
+My focus areas include:
+
+- 🔍 Penetration Testing
+- 🎯 Red Team Operations
+- 🌐 Web Application Security
+- 🧩 API Security Testing
+- 🐞 Bug Bounty Research
+- 🛠️ Exploit Development (Learning & Research)
+
+## 🧰 Tools & Technologies
+
+```bash
+Burp Suite | Nmap | Metasploit | Wireshark
+Python | Bash | Linux | Docker
+OWASP Top 10 | OSINT | Active Directory
