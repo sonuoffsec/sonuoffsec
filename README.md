@@ -66,15 +66,4 @@ Engineer resilience.
 
 ---
 
-## 📡 Collaboration
-
-```bash
-┌──(visitor㉿github)-[~/connect]
-└─$ echo "HELLO SONU"
-```
-
-Open a discussion to collaborate on **penetration testing, offensive security programs, and enterprise security architecture**.
-
----
-
 ⭐ Focused on **measurable security impact** through expert penetration testing, red teaming, and architecture-driven security leadership.
