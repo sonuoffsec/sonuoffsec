@@ -54,16 +54,9 @@ My GitHub contains useful tools, deliberately vulnerable labs, and resources for
 
 ## 🚀 Featured Projects
 
+- **DVAP** - Deliberately vulnerable platform for learning AI, LLM, RAG, MCP and agentic AI security
+- **AI-Security-Hub** - Payloads, cheat sheets, labs and CTFs for AI/LLM security testing
 - **ThreatLens** - AI-powered Burp Suite extension for real-time vulnerability analysis
-- **DVAP** - Deliberately Vulnerable Application Platform for offensive security training
-- **AI-Security-Hub** - Curated resources for AI/LLM security testing
-- **awesome-vulnerable** - Curated list of vulnerable apps for pentesters
-
-## 📝 Latest Contributions
-
-- **WAF Detection and Bypass Techniques** → [Read on Medium](https://medium.com/@sonuoffsec)
-- **[OWASP CycloneDX tool-center #94](https://github.com/CycloneDX/tool-center/pull/94)** – Path Traversal Vulnerability Report **✅ Merged**
-
-**"Breaking things to make them unbreakable."**
-
-[![](https://komarev.com/ghpvc/?username=sonuoffsec&color=0e75b6&style=flat&label=Profile+Views)](https://visitcount.itsvg.in)
+- **actionhunter** - CI/CD scanner for GitHub Actions supply-chain risks
+- **atlas-benchmark** - Adversarial taxonomy and severity scoring for LLM attack surfaces
+- **CleanTheTV** - One-command debloat, privacy DNS and a dark launcher for Android TV
