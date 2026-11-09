@@ -27,12 +27,6 @@ I'm a **Lead Penetration Tester, red teamer and AppSec engineer**. I look for we
 - **Offensive security:** penetration testing and red teaming
 - **Teaching:** labs, cheat sheets and write-ups for the community
 
-## Toolbox
-
-**Offensive:** Burp Suite · Nmap · Metasploit · OWASP ZAP · SQLMap · Wireshark · Kali Linux<br>
-**Code:** Python · TypeScript · JavaScript · Bash<br>
-**Cloud and DevSecOps:** AWS · Azure · Docker · Kubernetes · Terraform · GitHub Actions
-
 ## Writing
 
 Write-ups and research notes are on [Medium](https://medium.com/@sonuoffsec).
