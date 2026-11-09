@@ -1,62 +1,42 @@
-# Hi, I'm Sonu 👋
+<p align="center">
+  <img src="assets/header.svg" alt="sonu@linux:~$ whoami. Sonu Chaudhary. Penetration tester, red teamer, AI and LLM security." width="900">
+</p>
 
-## 💫 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/sonuoffsec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@sonuoffsec"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
-Welcome!
+I'm a **Lead Penetration Tester, red teamer and AppSec engineer**. I look for weaknesses so systems end up stronger, and I build the tools and deliberately vulnerable labs I wish I had when I was learning. Most of my recent work is about **securing AI, LLM, RAG and MCP systems**.
 
-I'm Sonu, a Lead Penetration Tester, red teamer, and AppSec engineer.
+## Featured work
 
-My GitHub contains useful tools, deliberately vulnerable labs, and resources for the offensive security community.
+| Project | What it is |
+|---|---|
+| **[DVAP](https://github.com/sonuoffsec/DVAP)** | OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP and agentic AI security. |
+| **[AI-Security-Hub](https://github.com/sonuoffsec/AI-Security-Hub)** | Payloads, cheat sheets, labs, tools and CTFs for AI, LLM, RAG, MCP and agent security. |
+| **[ThreatLens](https://github.com/sonuoffsec/ThreatLens)** | AI-powered Burp Suite extension for real-time vulnerability analysis. |
+| **[actionhunter](https://github.com/sonuoffsec/actionhunter)** | CI/CD scanner for GitHub Actions supply-chain risks, unpinned dependencies and secret exposure. |
+| **[atlas-benchmark](https://github.com/sonuoffsec/atlas-benchmark)** | Adversarial taxonomy for LLM attack surfaces: jailbreak primitives and severity scoring. |
+| **[CleanTheTV](https://github.com/sonuoffsec/cleanthetv)** | Side project: one-command debloat, privacy DNS and a dark launcher with a guest Wi-Fi QR for Android TV. |
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonuoffsec)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sonuoffsec)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonuoffsec)
+## What I work on
 
-## 💻 Tech Stack
+- **AI and LLM security:** prompt injection, jailbreaks, RAG and agent abuse, MCP security
+- **Application security:** web application testing, bug bounty methodology, CI/CD supply-chain risk
+- **Offensive security:** penetration testing and red teaming
+- **Teaching:** labs, cheat sheets and write-ups for the community
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+## Toolbox
 
-### 🛠️ Offensive Security Arsenal
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp_suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4C9E3A?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-FF0000?style=for-the-badge&logo=sqlmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**Offensive:** Burp Suite · Nmap · Metasploit · OWASP ZAP · SQLMap · Wireshark · Kali Linux<br>
+**Code:** Python · TypeScript · JavaScript · Bash<br>
+**Cloud and DevSecOps:** AWS · Azure · Docker · Kubernetes · Terraform · GitHub Actions
 
-### 🧑‍💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+## Writing
 
-### 📦 DevSecOps & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+Write-ups and research notes are on [Medium](https://medium.com/@sonuoffsec).
 
-## 📊 GitHub Stats
+## Contact
 
-![](https://github-readme-stats.shion.dev/api?username=sonuoffsec&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=sonuoffsec&theme=prussian&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sonuoffsec&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sonuoffsec&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🚀 Featured Projects
-
-- **DVAP** - Deliberately vulnerable platform for learning AI, LLM, RAG, MCP and agentic AI security
-- **AI-Security-Hub** - Payloads, cheat sheets, labs and CTFs for AI/LLM security testing
-- **ThreatLens** - AI-powered Burp Suite extension for real-time vulnerability analysis
-- **actionhunter** - CI/CD scanner for GitHub Actions supply-chain risks
-- **atlas-benchmark** - Adversarial taxonomy and severity scoring for LLM attack surfaces
-- **CleanTheTV** - One-command debloat, privacy DNS and a dark launcher for Android TV
+Find me on [LinkedIn](https://linkedin.com/in/sonuoffsec). To report a security issue in one of my projects, use that repo's **Security** tab.
