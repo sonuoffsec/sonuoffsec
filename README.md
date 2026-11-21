@@ -35,6 +35,6 @@ uvx --from mcp-vet-scanner mcp-vet --clients
 | **[atlas-benchmark](https://github.com/sonuoffsec/atlas-benchmark)** | Adversarial taxonomy for LLM attack surfaces: jailbreak primitives and severity scoring. |
 | **[CleanTheTV](https://github.com/sonuoffsec/cleanthetv)** | Side project: one-command debloat, privacy DNS and a dark launcher with a guest Wi-Fi QR for Android TV. |
 
-## Get in touch
+## Let's talk security
 
-Found a false positive in one of my scanners? Open an issue on the repository.
+Working on AI, LLM or MCP security, or have an interesting attack surface to break? I'm always up for a conversation about offensive security, building safer AI systems and sharing what works. Message me on [LinkedIn](https://linkedin.com/in/sonuoffsec) or read my write-ups on [Medium](https://medium.com/@sonuoffsec).
