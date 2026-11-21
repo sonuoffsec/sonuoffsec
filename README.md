@@ -1,6 +1,6 @@
-<h1 align="center">Sonu Chaudhary</h1>
-
-<p align="center"><b>Lead Penetration Tester</b> · Red Teamer · AI and LLM Security</p>
+<p align="center">
+  <img src="assets/banner.svg" alt="Sonu Chaudhary. Lead Penetration Tester. Red teaming, application security and AI security." width="100%">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sonuoffsec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,10 +13,9 @@ I'm a **Lead Penetration Tester, red teamer and AppSec engineer**. I look for we
 
 ## What I work on
 
-- **Offensive security:** web and API penetration testing, red teaming, bug bounty
-- **AI security:** prompt injection, RAG and agent abuse, MCP server security
-- **Tooling:** scanners and Burp extensions that turn what I learn on engagements into something others can run
-- **Teaching:** vulnerable-by-design labs and cheat sheets
+<p align="center">
+  <img src="assets/focus.svg" alt="Focus areas: offensive security, AI and MCP security, security tooling, vulnerable labs." width="100%">
+</p>
 
 ## Latest
 
