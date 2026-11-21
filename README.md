@@ -34,3 +34,7 @@ uvx --from mcp-vet-scanner mcp-vet --clients
 | **[actionhunter](https://github.com/sonuoffsec/actionhunter)** | CI/CD scanner for GitHub Actions supply-chain risks, unpinned dependencies and secret exposure. |
 | **[atlas-benchmark](https://github.com/sonuoffsec/atlas-benchmark)** | Adversarial taxonomy for LLM attack surfaces: jailbreak primitives and severity scoring. |
 | **[CleanTheTV](https://github.com/sonuoffsec/cleanthetv)** | Side project: one-command debloat, privacy DNS and a dark launcher with a guest Wi-Fi QR for Android TV. |
+
+## Get in touch
+
+Found a false positive in one of my scanners? Open an issue on the repository.
