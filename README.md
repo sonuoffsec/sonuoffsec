@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/header.svg" alt="sonu@linux:~$ whoami. Sonu Chaudhary. Penetration tester, red teamer, AI and LLM security." width="900">
-</p>
+<h1 align="center">Sonu Chaudhary</h1>
+
+<p align="center"><b>Lead Penetration Tester</b> · Red Teamer · AI and LLM Security</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sonuoffsec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
