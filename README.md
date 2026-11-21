@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonuoffsec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@sonuoffsec"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://github.com/sonuoffsec?tab=followers"><img src="https://img.shields.io/github/followers/sonuoffsec?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"></a>
-  <a href="https://pypi.org/project/mcp-vet-scanner/"><img src="https://img.shields.io/pypi/v/mcp-vet-scanner?style=for-the-badge&logo=pypi&logoColor=white&label=mcp-vet" alt="mcp-vet on PyPI"></a>
+  <a href="https://linkedin.com/in/sonuoffsec"><img src="https://img.shields.io/badge/LinkedIn-sonuoffsec-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="30"></a>&nbsp;
+  <a href="https://medium.com/@sonuoffsec"><img src="https://img.shields.io/badge/Medium-@sonuoffsec-12100E?style=flat&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" height="30"></a>
 </p>
 
 I'm a **Lead Penetration Tester, red teamer and AppSec engineer**. I look for weaknesses so systems end up stronger, and I build the tools and deliberately vulnerable labs I wish I had when I was learning. Most of my recent work is about **securing AI, LLM, RAG and MCP systems**.
